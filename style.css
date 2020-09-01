@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align:center;
+}
+
+#featured-property figure{
+  text-align:center;
+}
+#img-cap{
+  font-size: small;
+}
+
+#featured-property p{
+  width: 800px;
+  text-align: center;
+}
+/*the navbar*/
+#details {
+  display: block;
+}
+#details div{
+  float:left;
+  text-align: center;
+  width: 25%;
+  background-color: red;
+}
+
+#details a{
+  background-color: red;
+}
